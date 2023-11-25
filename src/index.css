@@ -100,4 +100,19 @@ h1 {
   background-color: #fdd06c;
 }
 
+.col-7 {
+  width: 58.33%;
+  padding: 15px;
+}
+
+.col-5 {
+  width: 41.67%;
+  padding: 15px;
+}
+
+.col-2 {
+  width: 16.66%;
+  padding: 15px;
+}
+
 
